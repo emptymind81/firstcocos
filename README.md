@@ -1,0 +1,4 @@
+firstcocos
+==========
+
+first cocos game
